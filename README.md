@@ -1,5 +1,5 @@
 # ChangeTheme
-One of the best ways for creating Animation in android is to use MotionLayout
+One of the best ways for creating Animation in Kotlin is to use MotionLayout
 in this project I used MotionLayout beside Jetpack compose to create a beautiful animation
 
 
