@@ -4,6 +4,9 @@ in this project I used MotionLayout beside Jetpack compose to create a beautiful
 
 
 
+ 
 
-https://github.com/majid2851/ChangeTheme/assets/46685643/b0b1ed95-de77-4406-80e3-1e91b620f3fc
+https://github.com/majid2851/ChangeTheme/assets/46685643/17fb72a8-b8f3-47e6-80ba-721c8ff77bb6
+
+
 
